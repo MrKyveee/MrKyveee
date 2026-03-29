@@ -14,10 +14,9 @@
 
 <h3>Atualmente estudando</h3>
 <ul style="list-style: none; padding-left: 0; margin-top: 0;">
-  <li style="margin-bottom: 6px;"><strong>Java + Spring Boot</strong> — APIs REST completas</li>
-  <li style="margin-bottom: 6px;"><strong>JPA / Hibernate</strong> — integração com banco de dados</li>
-  <li style="margin-bottom: 6px;"><strong>Arquitetura de backend</strong> — DAO + Service</li>
-  <li style="margin-bottom: 6px;"><strong>Em breve: Angular</strong> — front-end</li>
+  <li style="margin-bottom: 6px;"><strong>Spring Security</strong> — controle de acesso e autenticação</li>
+  <li style="margin-bottom: 6px;"><strong>JWT (JSON Web Token)</strong> — autenticação stateless em APIs</li>
+  <li style="margin-bottom: 6px;"><strong>Boas práticas de segurança</strong> — proteção de endpoints e APIs REST</li>
 </ul>
 
 <h3>Metas</h3>
